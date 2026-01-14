@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|c:\\users\\ballen\\desktop\\library project\\library2\\library2\\home\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|solutionrelative:library2\\home\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\library2\\home\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|solutionrelative:library2\\home\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\library2\\progres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|solutionrelative:library2\\progres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\library2\\expire\\expired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|solutionrelative:library2\\expire\\expired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\library2\\hazmarakan\\hazhmarakan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|solutionrelative:library2\\hazmarakan\\hazhmarakan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\library2\\backup\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|solutionrelative:library2\\backup\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\library2\\home\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|solutionrelative:library2\\home\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\library2\\hazmarakan\\hazhmarakan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|solutionrelative:library2\\hazmarakan\\hazhmarakan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\library2\\henan_brdn\\back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}|Library2\\Library2.csproj|solutionrelative:library2\\henan_brdn\\back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "home.cs",
+              "DocumentMoniker": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\home\\home.cs",
+              "RelativeDocumentMoniker": "Library2\\home\\home.cs",
+              "ToolTip": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\home\\home.cs",
+              "RelativeToolTip": "Library2\\home\\home.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAqwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:13:47.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "backup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\Backup\\backup.cs",
+              "RelativeDocumentMoniker": "Library2\\Backup\\backup.cs",
+              "ToolTip": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\Backup\\backup.cs [Design]",
+              "RelativeToolTip": "Library2\\Backup\\backup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:13:47.649Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\home\\login.cs",
+              "RelativeDocumentMoniker": "Library2\\home\\login.cs",
+              "ToolTip": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\home\\login.cs",
+              "RelativeToolTip": "Library2\\home\\login.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:13:48.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "expired.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\expire\\expired.cs",
+              "RelativeDocumentMoniker": "Library2\\expire\\expired.cs",
+              "ToolTip": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\expire\\expired.cs [Design]",
+              "RelativeToolTip": "Library2\\expire\\expired.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:13:48.158Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hazhmarakan.cs",
+              "DocumentMoniker": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\hazmarakan\\hazhmarakan.cs",
+              "RelativeDocumentMoniker": "Library2\\hazmarakan\\hazhmarakan.cs",
+              "ToolTip": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\hazmarakan\\hazhmarakan.cs",
+              "RelativeToolTip": "Library2\\hazmarakan\\hazhmarakan.cs",
+              "ViewState": "AgIAABQAAAAsmZmZmZkgwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:13:48.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hazhmarakan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\hazmarakan\\hazhmarakan.cs",
+              "RelativeDocumentMoniker": "Library2\\hazmarakan\\hazhmarakan.cs",
+              "ToolTip": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\hazmarakan\\hazhmarakan.cs [Design]",
+              "RelativeToolTip": "Library2\\hazmarakan\\hazhmarakan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:13:48.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\home\\login.cs",
+              "RelativeDocumentMoniker": "Library2\\home\\login.cs",
+              "ToolTip": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\home\\login.cs [Design]",
+              "RelativeToolTip": "Library2\\home\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:13:48.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "progres.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\progres.cs",
+              "RelativeDocumentMoniker": "Library2\\progres.cs",
+              "ToolTip": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\progres.cs [Design]",
+              "RelativeToolTip": "Library2\\progres.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:13:48.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "back.cs",
+              "DocumentMoniker": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\henan_brdn\\back.cs",
+              "RelativeDocumentMoniker": "Library2\\henan_brdn\\back.cs",
+              "ToolTip": "C:\\Users\\BALLEN\\Desktop\\Library project\\Library2\\Library2\\henan_brdn\\back.cs",
+              "RelativeToolTip": "Library2\\henan_brdn\\back.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-01-27T23:13:48.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

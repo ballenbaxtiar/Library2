@@ -1,0 +1,66 @@
+G:\Library2\Library2\bin\Debug\Library2.exe.config
+G:\Library2\Library2\bin\Debug\Library2.exe
+G:\Library2\Library2\bin\Debug\Library2.pdb
+G:\Library2\Library2\obj\Debug\Library2.csproj.AssemblyReference.cache
+G:\Library2\Library2\obj\Debug\Library2.csproj.SuggestedBindingRedirects.cache
+G:\Library2\Library2\obj\Debug\Library2.Properties.Resources.resources
+G:\Library2\Library2\obj\Debug\Library2.csproj.GenerateResource.cache
+G:\Library2\Library2\obj\Debug\Library2.csproj.CoreCompileInputs.cache
+G:\Library2\Library2\obj\Debug\Library2.exe
+G:\Library2\Library2\obj\Debug\Library2.pdb
+G:\Library2\Library2\obj\Debug\Library2.home.resources
+G:\Library2\Library2\obj\Debug\Library2.csproj.CopyComplete
+G:\Library2\Library2\obj\Debug\Library2.subhome.resources
+G:\Library2\Library2\obj\Debug\Library2.backup.resources
+G:\Library2\Library2\obj\Debug\Library2.koga.resources
+G:\Library2\Library2\obj\Debug\Library2.login.resources
+G:\Library2\Library2\bin\Debug\Guna.UI.dll
+G:\Library2\Library2\obj\Debug\Library2.type_of_book.resources
+G:\Library2\Library2\obj\Debug\Library2.tawawbwakan.resources
+G:\Library2\Library2\obj\Debug\Library2.koga_update.resources
+G:\Library2\Library2\obj\Debug\Library2.hazhmarakan.resources
+G:\Library2\Library2\obj\Debug\Library2.update_hazhmar.resources
+G:\Library2\Library2\obj\Debug\Library2.brdn.resources
+G:\Library2\Library2\obj\Debug\Library2.setting.resources
+G:\Library2\Library2\obj\Debug\Library2.change_name.resources
+G:\Library2\Library2\obj\Debug\Library2.back.resources
+G:\Library2\Library2\obj\Debug\Library2.henan_brdn.resources
+G:\Library2\Library2\obj\Debug\Library2.expired.resources
+G:\Library2\Library2\obj\Debug\Library2.about.resources
+G:\Library2\Library2\obj\Debug\Library2.change_language.resources
+G:\Library2\Library2\bin\Debug\CircularProgressBar.dll
+G:\Library2\Library2\bin\Debug\WinFormAnimation.dll
+G:\Library2\Library2\bin\Debug\CircularProgressBar.xml
+G:\Library2\Library2\obj\Debug\Library2.progres.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\bin\Debug\Library2.exe.config
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\bin\Debug\Library2.exe
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\bin\Debug\Library2.pdb
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\bin\Debug\CircularProgressBar.dll
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\bin\Debug\WinFormAnimation.dll
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\bin\Debug\CircularProgressBar.xml
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.csproj.AssemblyReference.cache
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.progres.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.about.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.expired.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.henan_brdn.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.back.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.backup.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.brdn.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.change_language.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.change_name.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.hazhmarakan.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.home.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.koga.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.login.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.koga_update.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.Properties.Resources.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.subhome.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.setting.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.tawawbwakan.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.type_of_book.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.update_hazhmar.resources
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.csproj.GenerateResource.cache
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.csproj.CoreCompileInputs.cache
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.csproj.Up2Date
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.exe
+C:\Users\BALLEN\Desktop\Library project\Library2\Library2\obj\Debug\Library2.pdb

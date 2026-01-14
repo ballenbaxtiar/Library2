@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6D6EFDD6-975D-43CB-8EE7-C78A6AB63C86}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Library2</RootNamespace>
+    <AssemblyName>Library2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>C:\Users\Akar\Downloads\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="progres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="progres.Designer.cs">
+      <DependentUpon>progres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setting\about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setting\about.Designer.cs">
+      <DependentUpon>about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="expire\expired.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="expire\expired.Designer.cs">
+      <DependentUpon>expired.cs</DependentUpon>
+    </Compile>
+    <Compile Include="henan_brdn\henan_brdn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="henan_brdn\henan_brdn.Designer.cs">
+      <DependentUpon>henan_brdn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="henan_brdn\back.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="henan_brdn\back.Designer.cs">
+      <DependentUpon>back.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Backup\backup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Backup\backup.Designer.cs">
+      <DependentUpon>backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="henan_brdn\brdn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="henan_brdn\brdn.Designer.cs">
+      <DependentUpon>brdn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setting\change_language.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setting\change_language.Designer.cs">
+      <DependentUpon>change_language.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Language.cs" />
+    <Compile Include="setting\change_name.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setting\change_name.Designer.cs">
+      <DependentUpon>change_name.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.cs" />
+    <Compile Include="hazmarakan\hazhmarakan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="hazmarakan\hazhmarakan.Designer.cs">
+      <DependentUpon>hazhmarakan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home\home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home\home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="koga\koga.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="koga\koga.Designer.cs">
+      <DependentUpon>koga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="koga\koga_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koga\koga_update.Designer.cs">
+      <DependentUpon>koga_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="home\subhome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="home\subhome.Designer.cs">
+      <DependentUpon>subhome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setting\setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setting\setting.Designer.cs">
+      <DependentUpon>setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tawawbwakan\tawawbwakan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tawawbwakan\tawawbwakan.Designer.cs">
+      <DependentUpon>tawawbwakan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="type\type_of_book.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="type\type_of_book.Designer.cs">
+      <DependentUpon>type_of_book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hazmarakan\update_hazhmar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hazmarakan\update_hazhmar.Designer.cs">
+      <DependentUpon>update_hazhmar.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="progres.resx">
+      <DependentUpon>progres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setting\about.resx">
+      <DependentUpon>about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="expire\expired.resx">
+      <DependentUpon>expired.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="henan_brdn\henan_brdn.resx">
+      <DependentUpon>henan_brdn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="henan_brdn\back.resx">
+      <DependentUpon>back.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Backup\backup.resx">
+      <DependentUpon>backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="henan_brdn\brdn.resx">
+      <DependentUpon>brdn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setting\change_language.resx">
+      <DependentUpon>change_language.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setting\change_name.resx">
+      <DependentUpon>change_name.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hazmarakan\hazhmarakan.resx">
+      <DependentUpon>hazhmarakan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home\home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="koga\koga.resx">
+      <DependentUpon>koga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="koga\koga_update.resx">
+      <DependentUpon>koga_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="home\subhome.resx">
+      <DependentUpon>subhome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setting\setting.resx">
+      <DependentUpon>setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tawawbwakan\tawawbwakan.resx">
+      <DependentUpon>tawawbwakan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="type\type_of_book.resx">
+      <DependentUpon>type_of_book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hazmarakan\update_hazhmar.resx">
+      <DependentUpon>update_hazhmar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize-sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maaaaaaaaaaaaaaaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open-folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-folder %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize-sign1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hidden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\locator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telephone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snapchat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telegram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snapchat %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snapchat %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snapchat %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info %282%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
